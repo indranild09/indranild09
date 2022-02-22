@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **jQuery**
 
-- 💬 Ask me about **Python, MySQL**
+- 💬 Ask me about **Python, MySQL, HTML5, CSS3**
 
 - 📫 How to reach me: 
 <br>
