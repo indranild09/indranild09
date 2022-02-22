@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/indranil-das-b68136176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/thedarkskull009/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <h2></h2>
-<br>
+
 <p><i>Thanks to every open source contributor for their contribution.</i> 🤩</p>
 <h2></h2>
 <h3 align="left">Connect with me:</h3>
