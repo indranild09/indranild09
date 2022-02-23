@@ -4,8 +4,10 @@
 <h2></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indranild09&label=Profile%20views&color=0e75b6&style=flat" alt="indranild09" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
 
 - 🌱 I’m currently learning **jQuery**
 
