@@ -9,6 +9,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.webp">
 
+<br>
+
 - 🌱 I’m currently learning **jQuery**
 
 - 💬 Ask me about **Python, MySQL, HTML5, CSS3**
