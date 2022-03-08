@@ -50,6 +50,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indranild09&" alt="indranild09" /></p>
 
 <h2></h2>
-# Watch Snake eating my Contribution
+<h2> Watch Snake eating my Contribution </h2>
 
 ![snake gif](https://github.com/indranild09/snake_contribution/blob/output/github-contribution-grid-snake.gif)
+
