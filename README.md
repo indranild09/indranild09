@@ -11,7 +11,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **jQuery**
+- 🌱 I’m currently learning **SalesForce** 
 
 - 💬 Ask me about **Python, MySQL, HTML5, CSS3**
 
