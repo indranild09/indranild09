@@ -11,7 +11,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **SalesForce** 
+- 🌱 I’m currently learning **SalesForce Marketing Cloud** 
 
 - 💬 Ask me about **Python, MySQL, HTML5, CSS3**
 
